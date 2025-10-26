@@ -3,7 +3,7 @@
 This project uses an LSTM neural network to predict stock prices and displays the results in an interactive Streamlit dashboard.
 
 ## Files Included:
-* **[Your_Notebook_Name].ipynb**: The Google Colab notebook used for data processing, model training, and evaluation.
+* **stockprice_prediction.ipynb**: The Google Colab notebook used for data processing, model training, and evaluation.
 * **app.py**: The Python script for the Streamlit dashboard.
 * **stock_lstm_model.h5**: The pre-trained Keras model.
 * **stock_scaler.gz**: The pre-fit scikit-learn scaler.
