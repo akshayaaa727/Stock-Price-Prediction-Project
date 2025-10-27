@@ -41,6 +41,6 @@ This project uses an LSTM (Long Short-Term Memory) neural network to predict fut
 * **`stock_lstm_model.h5`**: The pre-trained LSTM model file. *(Handled by Git LFS or GDrive download)*
 * **`stock_scaler.gz`**: The saved `MinMaxScaler` object used to normalize the data.
 * **`predictions.csv`**: A CSV file containing the test data (actual vs. predicted) used to generate the chart.
-* **`stockprice_prediction.ipynb`**: (Optional) The Jupyter/Colab notebook used for the original data exploration and model training.
+* **`stockprice_prediction.ipynb`**: The Jupyter/Colab notebook used for the original data exploration and model training.
 
 ---
